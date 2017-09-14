@@ -5,4 +5,4 @@ Hi! Welcome to the companion reference to my lynda.com Github for Web Designers 
 
 ## [View the companion reference site](http://simpleprimate.com/github-for-web-designers/index.html)
 
-###this is my new README for my GitHub Desktop Lesson
+### this is my new README for my GitHub Desktop Lesson
